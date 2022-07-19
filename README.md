@@ -88,7 +88,7 @@
 
 
 
-13. Pattern13 Output :-
+14. Pattern14 Output :-
 
 
 
