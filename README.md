@@ -43,7 +43,14 @@
 
 
 
-7. Pattern6 Output :-
+7. Pattern7 Output :-
 
 
 ![image](https://user-images.githubusercontent.com/46734231/179730133-ea6042b3-02c9-4e9d-a99c-3e0ec45f6539.png)
+
+
+
+8. Pattern8 Output :-
+
+![image](https://user-images.githubusercontent.com/46734231/179732003-499fc25d-8a4b-4c53-baf9-75659c9613df.png)
+
