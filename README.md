@@ -13,3 +13,11 @@
 
 
 ![Screenshot 2022-07-19 154449](https://user-images.githubusercontent.com/46734231/179727149-16766ac2-ce15-41cb-b8e0-f95627358600.png)
+
+
+
+3. Pattern3 Output :- 
+
+
+![image](https://user-images.githubusercontent.com/46734231/179727521-13b3b6d8-62f7-40f9-8a86-828e3244c4d5.png)
+
