@@ -59,3 +59,12 @@
 9. Pattern9 Output :-
 
 ![image](https://user-images.githubusercontent.com/46734231/179732884-ef196f0f-8b5b-4f5d-bfbd-0f0460f9219d.png)
+
+
+
+10. Pattern10 Output :-
+
+
+![image](https://user-images.githubusercontent.com/46734231/179734762-fe10fe01-4ad8-44ff-97e9-6c81a70a733e.png)
+
+
