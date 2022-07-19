@@ -144,3 +144,10 @@
 22. Pattern22 Output :-
 
 ![image](https://user-images.githubusercontent.com/46734231/179803965-3408a141-6ae3-4b6a-893f-d85750fc46b9.png)
+
+
+
+23. Pattern23 Output :-
+
+![image](https://user-images.githubusercontent.com/46734231/179806993-81480384-6d07-426c-9c15-fbb9c472f5d9.png)
+
