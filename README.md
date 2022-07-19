@@ -151,3 +151,8 @@
 
 ![image](https://user-images.githubusercontent.com/46734231/179806993-81480384-6d07-426c-9c15-fbb9c472f5d9.png)
 
+
+
+24. Pattern24 Output :-
+
+![image](https://user-images.githubusercontent.com/46734231/179811574-e58d0ae6-6166-4b5b-b51c-ad63cb475041.png)
