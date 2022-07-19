@@ -81,4 +81,16 @@
 ![image](https://user-images.githubusercontent.com/46734231/179741875-03de304e-8fe5-4ebc-a66e-b3521765313a.png)
 
 
+13. Pattern13 Output :-
+
+
+![image](https://user-images.githubusercontent.com/46734231/179744102-2ae7fc51-11ff-41e1-953c-d6381e0fd886.png)
+
+
+
+13. Pattern13 Output :-
+
+
+
+
 
