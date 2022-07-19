@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int size;
+    cout<<"Enter Size :- ";
+    cin>>size;
+    int i=size;
+    while(i>=1){
+        int j = i;
+        while(j<=size){
+            cout<<char(int('A')+j-1)<<" ";
+            j++;
+        }
+        cout<<endl;
+        i--;
+    }
+    
+    return 0;
+}  
