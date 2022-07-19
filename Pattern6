@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+int power(int a,int b){
+    int product = 1;
+    for(int i=1;i<=b;i++){
+        product = a * product;
+    }
+    return product;
+}
+int main() {
+    int size;
+    cout<<"enter A Size Of Pattern :- ";
+    cin>>size;
+    int count = power(size,2);
+    int i=1;
+    while(i<=size){
+        int j= 1;
+        while(j<=size){
+            cout<<count<<" ";
+            count--;
+            j++;
+        }
+        cout<<endl;
+        i++;
+    }
+    return 0;
+}
