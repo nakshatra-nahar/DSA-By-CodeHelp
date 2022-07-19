@@ -156,3 +156,10 @@
 24. Pattern24 Output :-
 
 ![image](https://user-images.githubusercontent.com/46734231/179811574-e58d0ae6-6166-4b5b-b51c-ad63cb475041.png)
+
+
+
+25. Pattern25 Output :-
+
+![image](https://user-images.githubusercontent.com/46734231/179821578-f026772b-2fcc-4839-8eea-7f5859809a38.png)
+
