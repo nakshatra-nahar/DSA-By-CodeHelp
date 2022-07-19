@@ -97,6 +97,7 @@
 
 15. Pattern15 Output :-
 
+![image](https://user-images.githubusercontent.com/46734231/179764302-2799f468-8144-4dc1-a498-c54425e77487.png)
 
-
+16. Pattern16 Output :-
 
