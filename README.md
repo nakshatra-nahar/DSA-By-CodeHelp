@@ -113,3 +113,18 @@
 
 
 ![image](https://user-images.githubusercontent.com/46734231/179771632-290225ca-6f82-4377-8848-c44bc972e28e.png)
+
+
+
+18. Pattern18 Output :-
+
+![image](https://user-images.githubusercontent.com/46734231/179781635-1cedbbd1-41fb-48a9-b3dc-28324d750ce7.png)
+
+
+
+19. Pattern19 Output :-
+
+![image](https://user-images.githubusercontent.com/46734231/179785493-9752ac09-de82-40cb-bead-3d9d1bf3f6b9.png)
+
+
+
