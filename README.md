@@ -128,3 +128,19 @@
 
 
 
+20. Pattern20 Output :-
+
+
+![image](https://user-images.githubusercontent.com/46734231/179798733-b6a60536-949a-4f37-8ccf-b02b0ca04b9c.png)
+
+
+
+
+21. Pattern21 Output :-
+
+![image](https://user-images.githubusercontent.com/46734231/179801170-88829742-fd7e-4db1-9a51-966f725c0ae9.png)
+
+
+22. Pattern22 Output :-
+
+![image](https://user-images.githubusercontent.com/46734231/179803965-3408a141-6ae3-4b6a-893f-d85750fc46b9.png)
