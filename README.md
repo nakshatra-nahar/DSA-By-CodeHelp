@@ -110,3 +110,6 @@
 
 
 17. Pattern17 Output :-
+
+
+![image](https://user-images.githubusercontent.com/46734231/179771632-290225ca-6f82-4377-8848-c44bc972e28e.png)
