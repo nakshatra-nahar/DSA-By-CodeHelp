@@ -54,3 +54,8 @@
 
 ![image](https://user-images.githubusercontent.com/46734231/179732003-499fc25d-8a4b-4c53-baf9-75659c9613df.png)
 
+
+
+9. Pattern9 Output :-
+
+![image](https://user-images.githubusercontent.com/46734231/179732884-ef196f0f-8b5b-4f5d-bfbd-0f0460f9219d.png)
