@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int size;
+    cout<<"Enter Size :- ";
+    cin>>size;
+    for(int i=1;i<=size;i++){
+        
+        // for spaces
+        for(int j=1;j<=size-i;j++){
+            cout<<" ";
+        }
+        for(int k=1;k<=i;k++){
+            cout<<k;
+        }
+        int start = i-1;
+        while(start){
+            cout<<start;
+            start--;
+        }
+        cout<<endl;
+    }
+    return 0;
+
+}
