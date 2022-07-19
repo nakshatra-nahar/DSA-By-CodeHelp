@@ -91,6 +91,12 @@
 14. Pattern14 Output :-
 
 
+![image](https://user-images.githubusercontent.com/46734231/179760289-b5ba6707-35a0-4a55-a223-7b493bd5d5da.png)
+
+
+
+15. Pattern15 Output :-
+
 
 
 
