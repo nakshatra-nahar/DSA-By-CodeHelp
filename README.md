@@ -41,3 +41,9 @@
 
 ![image](https://user-images.githubusercontent.com/46734231/179728376-913f3ccd-d26b-4be6-a9ef-bb2d37d56105.png)
 
+
+
+7. Pattern6 Output :-
+
+
+![image](https://user-images.githubusercontent.com/46734231/179730133-ea6042b3-02c9-4e9d-a99c-3e0ec45f6539.png)
