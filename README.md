@@ -99,5 +99,14 @@
 
 ![image](https://user-images.githubusercontent.com/46734231/179764302-2799f468-8144-4dc1-a498-c54425e77487.png)
 
+
+
 16. Pattern16 Output :-
 
+
+![image](https://user-images.githubusercontent.com/46734231/179766905-87a6a693-9003-4c6c-8094-745fd7696b1e.png)
+
+
+
+
+17. Pattern17 Output :-
